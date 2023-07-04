@@ -49,7 +49,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="#"></a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
@@ -90,8 +90,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd ComedyBurst
   git clone https://github.com/Shahid-Bagwan/ComedyBurst.git
+  cd ComedyBurst
 ```
 
 
@@ -110,8 +110,6 @@ To run the project:
 **Open index.html file** 
 
 ### Run tests
-
-To run tests, run the following command:
 
 N/A
 
@@ -154,9 +152,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
