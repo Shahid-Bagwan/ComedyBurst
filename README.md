@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Click Here to see live demo]()
+[live demo comming soon]()
 
 ## Video talking about the website
 
