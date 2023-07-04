@@ -17,14 +17,13 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ComedyBurst] <a name="about-project"></a>
+# 📖 ComedyBurst <a name="about-project"></a>
 
-**[ComedyBurst]**  A Comedy Event website to give fans easy access to concerts
+**ComedyBurst**  A Comedy Event website to give fans easy access to concerts
 
 ## 🛠 Built With <a name="built-with"></a>
 
