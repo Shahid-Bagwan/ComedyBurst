@@ -1,67 +1,181 @@
-# A Comedy Event website to give fans easy access to concerts
+# 📗 Table of Contents
 
-> This project is about setting up a website with two webpages. Homepage and About page.
-> These pages include both mobile and desktop versions.
-> The "Featured Artist section" of the homepage of this website was dynamically made with javascript.
-> The "Last two concerts section" in the about page has a really cool feature when you hover or leave your cursor on the images. It gives a concert vibe. 
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [ComedyBurst] <a name="about-project"></a>
+
+**[ComedyBurst]**  A Comedy Event website to give fans easy access to concerts
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
 
 
-## Built With
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">Javascript</a></li>
+  </ul>
+</details>
 
-- HTML 
-- CSS
-- Javascript
-- SCSS
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">N/A</a></li>
+  </ul>
+</details>
 
-## Live Demo
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="#"></a></li>
+  </ul>
+</details>
 
-[live demo comming soon]()
+<!-- Features -->
 
-## Video talking about the website
+### Key Features <a name="key-features"></a>
 
-[Click Here to watch video](https://www.loom.com/share/fad340d44edf44b796c8b6027db075bb?sid=7e6fbc42-68ed-41f9-897e-5305bd24846a)
+- **[Featured Artist section]**
+- **[Last two concerts section]**
 
-## Getting Started
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
-To get a local copy up and running follow these simple example steps.
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Coming Soon]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-- You need to have git installed in your machine.
-- A text editor or terminal
-- A web browser to view output
+
+In order to run this project you need:
+
+- You need to have NodeJS installed
+- A Web Browser (Google Chrome, Firefox, etc)
+- A Code Editor (Notepad++, VSCode, etc)
+
+### Setup
+
+Clone this repository to your desired folder:
 
 
-### Setup and Installation
+```sh
+  cd ComedyBurst
+  git clone https://github.com/Shahid-Bagwan/ComedyBurst.git
+```
 
-- To clone the repository run this command `git clone https://github.com/Shahid-Bagwan/ComedyBurst.git `
-- `cd ComedyBurst`
-- open index.html file 
 
+### Install
 
-## Authors
+Install this project with:
 
-👤 **Author1**
+```sh
+  npm install
+```
+
+### Usage
+
+To run the project:
+
+**Open index.html file** 
+
+### Run tests
+
+To run tests, run the following command:
+
+N/A
+
+### Deployment
+
+You can deploy this project using:
+
+Deploy this project on any websever
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 - GitHub: [@Shahidbagwan](https://github.com/Shahid-Bagwan)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Ticket Booking]**
+- [ ] **[Better UI/UX]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowlegement
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 - Thanks to Microverse for their curriculum
 - Thanks to morning session team for their support
 - Thanks to stand up team for their support
 - Thanks to code reviewers
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
