@@ -1,4 +1,4 @@
-# A musical event website to give fans easy access to concerts
+# A Comedy Event website to give fans easy access to concerts
 
 > This project is about setting up a website with two webpages. Homepage and About page.
 > These pages include both mobile and desktop versions.
@@ -33,8 +33,9 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Setup and Installation
-- To clone the repository run this command "git clone "
-- cd COMEDYBURST
+
+- To clone the repository run this command `git clone https://github.com/Shahid-Bagwan/ComedyBurst.git `
+- `cd ComedyBurst`
 - open index.html file 
 
 
@@ -42,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@Haywayaheadshot](https://github.com/Shahid-Bagwan)
+- GitHub: [@Shahidbagwan](https://github.com/Shahid-Bagwan)
 
 
 ## 🤝 Contributing
