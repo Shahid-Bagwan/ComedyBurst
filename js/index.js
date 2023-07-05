@@ -112,10 +112,10 @@ function showFeaturedArtistsDesk(info) {
   shownArtistDesk.innerHTML = `
 <img class="featured-artists-image-desk for-desktop" src='${featuredArtists[info].artistImage}' alt='${featuredArtists[info].imageAlt}'>
 <div class="desk-featured-artists-body-div for-desktop">
-  <h4 class=" for-desktop font">${featuredArtists[info].artistName}</h4>
-  <h5 class="margin padding for-desktop font"> <i>${featuredArtists[info].artistLabel}</i></h5>
+  <h4 class=" for-desktop ar-n font">${featuredArtists[info].artistName}</h4>
+  <h5 class="margin padding ar-l for-desktop font"> <i>${featuredArtists[info].artistLabel}</i></h5>
   <div class=" for-desktop">__</div>
-  <h6 class=" for-desktop margin padding font">
+  <h6 class=" for-desktop ar-d margin padding font">
     ${featuredArtists[info].latestRelease}
   </h6>
 </div>`;

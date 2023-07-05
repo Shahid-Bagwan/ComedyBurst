@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Coming Soon]()
+- [Live Demo](https://shahid-bagwan.github.io/ComedyBurst/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,6 +160,7 @@ If you like this project give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+- Thanks to Cindy Shin the author of the original design.
 - Thanks to Microverse for their curriculum
 - Thanks to morning session team for their support
 - Thanks to stand up team for their support
