@@ -180,13 +180,13 @@ button {
 }
 
 .comic {
-  padding: 20px 15px 8px 15px;
-  width: 80px;
+  padding: 20px 0 8px 15px;
+  width: 67px;
   height: auto;
 }
 
 .main .top-specials-container .top-specials-item .number {
-  padding: 0 5px 0 10px;
+  padding: 0 5px 0 0;
   width: 21%;
   word-wrap: break-word;
   display: flex;
@@ -226,7 +226,7 @@ button {
   width: 77%;
   padding: 0 50px;
   color: hsl(0, 0%, 100%);
-  font-size: 27px;
+  font-size: 23px;
   font-style: normal;
   font-weight: 600;
   line-height: 28px;
@@ -897,6 +897,7 @@ button {
 
   .main .top-specials-container {
     display: flex;
+    justify-content: center;
     gap: 2px;
     padding: 0 97px;
   }
